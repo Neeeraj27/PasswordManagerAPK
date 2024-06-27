@@ -20,9 +20,11 @@
 * Click the floating action button.
 * Fill in the details and click "Add New Account".
 * Errors are shown for empty fields or passwords less than 6 characters.
+  
 3- View/Edit Password:
 * Click on a password item to view details.
 * Click "Edit" to make changes and "Save Changes" to update.
 * Use the eye icon to toggle password visibility while editing.
+  
 4- Delete Password:
 * Click "Delete" in the password details view to remove the password.
