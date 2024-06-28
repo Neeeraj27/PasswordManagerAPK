@@ -28,3 +28,10 @@
   
 4- Delete Password:
 * Click "Delete" in the password details view to remove the password.
+
+# Screenshot
+
+<img src="https://github.com/Neeeraj27/PasswordManagerAPK/assets/120241729/c9136041-5e8f-4d81-8f7d-0476f0c92d39" alt="image1" width="180"/>
+<img src="https://github.com/Neeeraj27/PasswordManagerAPK/assets/120241729/0f42b357-4719-474c-8965-08b044402146" alt="image2" width="180"/>
+<img src="https://github.com/Neeeraj27/PasswordManagerAPK/assets/120241729/b0a5da2c-b326-4d8e-b1c4-58bc832fb497" alt="image3" width="180"/>
+
